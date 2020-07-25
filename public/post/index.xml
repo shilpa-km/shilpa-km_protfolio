@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on shilpa</title>
+    <link>https://github.com/shilpa-km/shilpa-km_protfolio/post/</link>
+    <description>Recent content in Projects on shilpa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jul 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://github.com/shilpa-km/shilpa-km_protfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Lead Scoring</title>
+      <link>https://github.com/shilpa-km/shilpa-km_protfolio/post/project1/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/shilpa-km/shilpa-km_protfolio/post/project1/</guid>
+      <description>Created a tool to identify Lead scoring , An education company sells online courses to industry professionals. Once leads are acquired, employees from the sales team start making calls, writing emails, etc. The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score have a higher conversion chance.Build a logistic regression model to assign a lead score ,we use Optimized Logistic Regression using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Recommender System Using Amazon Reviews</title>
+      <link>https://github.com/shilpa-km/shilpa-km_protfolio/post/project2/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/shilpa-km/shilpa-km_protfolio/post/project2/</guid>
+      <description>For this example project I built a Recommender System for E-commerce companies like Amazon , flipkart .we are using item-item collaberrative filtering which produces high quality Recommentation System in the Real time. This system is a kind of a information filtering system which seeks to predict the &amp;ldquo;rating&amp;rdquo; or preferences which user is interested in. We need to built a model so that we can predict top 10 products with Recommentation System</description>
+    </item>
+    
+  </channel>
+</rss>
